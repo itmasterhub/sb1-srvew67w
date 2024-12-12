@@ -5,7 +5,7 @@ import { Shield, Headphones, ProjectorIcon, FileText, Lightbulb, Network, Settin
 const services = [
   {
     title: "Seguridad Informática y Protección de Datos",
-    description: "Soluciones de Seguridad Integrales para Proteger sus Valiosos Datos y Sistemas de Amenazas.",
+    description: "Soluciones de Seguridad Integrales para Proteger sus Valiosos Datos y Sistemas ante Amenazas.",
     Icon: Shield
   },
   {
